@@ -1,0 +1,15 @@
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\bin\Debug\net6.0\Fibanocci_Series.exe
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\bin\Debug\net6.0\Fibanocci_Series.deps.json
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\bin\Debug\net6.0\Fibanocci_Series.runtimeconfig.json
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\bin\Debug\net6.0\Fibanocci_Series.dll
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\bin\Debug\net6.0\Fibanocci_Series.pdb
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\obj\Debug\net6.0\Fibanocci_Series.csproj.AssemblyReference.cache
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\obj\Debug\net6.0\Fibanocci_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\obj\Debug\net6.0\Fibanocci_Series.AssemblyInfoInputs.cache
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\obj\Debug\net6.0\Fibanocci_Series.AssemblyInfo.cs
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\obj\Debug\net6.0\Fibanocci_Series.csproj.CoreCompileInputs.cache
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\obj\Debug\net6.0\Fibanocci_Series.dll
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\obj\Debug\net6.0\refint\Fibanocci_Series.dll
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\obj\Debug\net6.0\Fibanocci_Series.pdb
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\obj\Debug\net6.0\Fibanocci_Series.genruntimeconfig.cache
+C:\Users\gopal\source\repos\Fibanocci_Series\Fibanocci_Series\obj\Debug\net6.0\ref\Fibanocci_Series.dll

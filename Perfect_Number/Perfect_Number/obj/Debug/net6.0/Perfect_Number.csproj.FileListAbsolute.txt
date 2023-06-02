@@ -1,0 +1,15 @@
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\bin\Debug\net6.0\Perfect_Number.exe
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\bin\Debug\net6.0\Perfect_Number.deps.json
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\bin\Debug\net6.0\Perfect_Number.runtimeconfig.json
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\bin\Debug\net6.0\Perfect_Number.dll
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\bin\Debug\net6.0\Perfect_Number.pdb
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\obj\Debug\net6.0\Perfect_Number.csproj.AssemblyReference.cache
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\obj\Debug\net6.0\Perfect_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\obj\Debug\net6.0\Perfect_Number.AssemblyInfoInputs.cache
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\obj\Debug\net6.0\Perfect_Number.AssemblyInfo.cs
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\obj\Debug\net6.0\Perfect_Number.csproj.CoreCompileInputs.cache
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\obj\Debug\net6.0\Perfect_Number.dll
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\obj\Debug\net6.0\refint\Perfect_Number.dll
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\obj\Debug\net6.0\Perfect_Number.pdb
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\obj\Debug\net6.0\Perfect_Number.genruntimeconfig.cache
+C:\Users\gopal\source\repos\Perfect_Number\Perfect_Number\obj\Debug\net6.0\ref\Perfect_Number.dll
